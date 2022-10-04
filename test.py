@@ -1,3 +1,3 @@
 a=1/3
-x=int(input())
+x=int(input())    #я дурачок
 print(a*x)
